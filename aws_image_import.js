@@ -66,3 +66,4 @@ s3.listBuckets(function(err, data) {
   }
 });
 // snippet-end:[s3.JavaScript.buckets.listBuckets]
+
