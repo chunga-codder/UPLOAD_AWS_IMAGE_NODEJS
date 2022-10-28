@@ -44,3 +44,4 @@ if (process.argv[2].toUpperCase() === "START") {
     }
   });
 }
+// node ec2_startstopinstances.js START INSTANCE_ID
